@@ -14,7 +14,7 @@ Este proyecto es una herramienta de análisis de datos diseñada para procesar, 
 3.  **Visualización:** El archivo de Power BI permite filtrar por mes, tipo de gasto y ver la evolución del saldo.
 
 ## 📂 Estructura del Proyecto
-* `analisis_bancario2.py`: Código fuente del procesamiento de datos.
+* `analisis.py`: Código fuente del procesamiento de datos.
 * `Dashboard_Financiero.pbix`: Archivo visual de Power BI.
 * `data/`: Archivos CSV con la data procesada.
 
