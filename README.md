@@ -19,6 +19,7 @@ Este proyecto es una herramienta de análisis de datos diseñada para procesar, 
 * `data/`: Archivos CSV con la data procesada.
 
 ## 👨‍💻 Sobre mí
-Estudiante de Tecnología de la Información en la Universidad de Guayaquil, apasionado por el análisis de datos y la inteligencia de negocios (Business IT).<img width="888" height="494" alt="Captura" src="https://github.com/user-attachments/assets/8ae6489d-fa87-46c3-9fa2-01a59e072ce6" />
+Estudiante de Tecnología de la Información en la Universidad de Guayaquil, apasionado por el análisis de datos y la inteligencia de negocios (Business IT).
+<img width="888" height="494" alt="Captura" src="https://github.com/user-attachments/assets/8ae6489d-fa87-46c3-9fa2-01a59e072ce6" />
 
 
