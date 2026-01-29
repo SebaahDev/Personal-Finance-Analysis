@@ -4,7 +4,7 @@ Este proyecto es una herramienta de análisis de datos diseñada para procesar, 
 
 ## 🛠️ Tecnologías Utilizadas
 * **Python:** Scripting principal.
-* **Pandas:** Librería utilizada en `analisis_bancario2.py` para la limpieza, transformación y estructuración de los datos crudos (ETL).
+* **Pandas:** Librería utilizada en `Analisis.py` para la limpieza, transformación y estructuración de los datos crudos (ETL).
 * **Power BI:** Creación del dashboard interactivo (`.pbix`) para visualización de KPIs.
 * **Excel/CSV:** Fuente de datos.
 
@@ -14,7 +14,7 @@ Este proyecto es una herramienta de análisis de datos diseñada para procesar, 
 3.  **Visualización:** El archivo de Power BI permite filtrar por mes, tipo de gasto y ver la evolución del saldo.
 
 ## 📂 Estructura del Proyecto
-* `analisis.py`: Código fuente del procesamiento de datos.
+* `Analisis.py`: Código fuente del procesamiento de datos.
 * `Dashboard_Financiero.pbix`: Archivo visual de Power BI.
 * `data/`: Archivos CSV con la data procesada.
 
